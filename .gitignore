@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+dist/
+.vite/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.env
+venv/
+env/
+.venv/
+.pytest_cache/
+
+# Databases
+*.db-journal
+
+# OS files
+.DS_Store
+Thumbs.db
